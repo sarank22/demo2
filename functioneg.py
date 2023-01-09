@@ -1,3 +1,5 @@
-a = int(input())
-print(a)
+d = int(input()).strip()[-1]
 
+    
+    
+        
